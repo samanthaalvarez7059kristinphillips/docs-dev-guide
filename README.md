@@ -24,3 +24,5 @@ Create and publish free or metered services for Cloud Foundry apps.
 
 
 This repository used to contain the subdirectory docs-dev-guide/cf-cli, documenting the Cloud Foundry Command Line Interface (cf CLI). The content from this subdirectory has been moved to its own repository, [docs-cf-cli](http://github.com/cloudfoundry/docs-cf-cli).
+
+<!-- Auto-update: 2025-10-14T01:00:44.672917 -->
